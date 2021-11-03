@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @bogdanbriscan
-- 👀 I’m interested in creating an clasified ads website
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on my project with somebody who know how to create a website from scratch 
-- 📫 How to reach me bogdanbriscan17@gmail.com 
+- 📫 How to reach me bogdanbriscan17@gmail.com
